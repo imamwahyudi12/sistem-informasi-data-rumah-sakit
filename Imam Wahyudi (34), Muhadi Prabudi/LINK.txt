@@ -1,0 +1,9 @@
+Link Sistem Informasi Pasien Rumah Sakit
+
+Nama	: Imam Wahyudi
+NIM	: 16.22.0434
+
+Nama	: Muhadi Prabudi
+NIM	: 16.22.0450
+
+https://github.com/imamwahyudi12/sistem-informasi-data-rumah-sakit.git
